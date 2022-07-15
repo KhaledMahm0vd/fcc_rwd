@@ -1,12 +1,12 @@
 # Responsive Web Design Certification by FreeCodeCamp
 This repo contains my solutions for required apps to pass certification.
 #Apps Created / Being Created:				Progress:
-[1.] Cat Photo App.								25%
+[x] Cat Photo App.								25%
 
 #Apps to be created:
-2. Cafe Menu.									0%
-3. Colored Markers.								0%
-4. Registration Form.							0%
+[] Cafe Menu.									0%
+[] Colored Markers.								0%
+[] Registration Form.							0%
 5. Survey form.									0%
 6. Rothko Painting.								0%
 7. Photo Gallery.								0%
