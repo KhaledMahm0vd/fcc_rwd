@@ -2,6 +2,7 @@
 * This repo contains my solutions for required apps to pass certification.
 
 |Apps Created - Being Created|				Progress:|
+|----------------------------|-----------------|
 |[x] Cat Photo App.|								25%|
 
 |#Apps to be created:|-|
