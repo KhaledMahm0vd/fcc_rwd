@@ -4,7 +4,7 @@
 |Apps Created - Being Created|				Progress:|
 |----------------------------|-----------------|
 |[x] Cat Photo App.|								25%|
-
+|----------------------------|-----------------|
 |#Apps to be created:|-|
 |2. Cafe Menu.						|			0%  |
 |3. Colored Markers.				|				0%  |
